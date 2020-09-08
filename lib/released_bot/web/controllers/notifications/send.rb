@@ -8,7 +8,6 @@ module ReleasedBot
           include Hanami::Action
 
           def call(params)
-            puts params
             self.body = '{}'
           end
         end

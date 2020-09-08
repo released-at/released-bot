@@ -14,3 +14,5 @@ gem 'rake'
 
 gem 'hanami-controller'
 gem 'hanami-router'
+
+gem 'telegram-bot'
